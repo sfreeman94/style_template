@@ -1,0 +1,255 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+
+.color h3 {
+    text-align: center;
+}
+
+.redhues li,
+.redsats li,
+.redlgts li,
+.bluehues li,
+.bluesats li,
+.blgts li,
+.greenhues li,
+.gsats li,
+.glgts li
+{
+    display: inline;
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    border: 1px solid black;
+    margin-right: 10px;
+    position: relative;
+    overflow: hidden;
+}
+
+.redhues .red1 {
+    background-color: hsl(0,100%,50%);
+
+}
+
+.red2 {
+    background-color: hsl(10,100%,50%);
+}
+
+.red3 {
+    background-color: hsl(20,100%,50%);
+}
+
+.red4 {
+    background-color: hsl(30,100%,50%);
+}
+
+.red5 {
+    background-color: hsl(40,100%,50%);
+}
+
+.red6 {
+    background-color: hsl(50,100%,50%);
+}
+
+.rsat1 {
+    background-color: hsl(0,100%,50%);
+}
+
+.rsat2 {
+    background-color: hsl(0,80%,50%);
+}
+
+.rsat3 {
+    background-color: hsl(0,60%,50%);
+}
+
+.rsat4 {
+    background-color: hsl(0,40%,50%);
+}
+
+.rsat5 {
+    background-color: hsl(0,20%,50%);
+}
+
+.rsat6 {
+    background-color: hsl(0,10%,50%);
+}
+
+.rlgt1 {
+    background-color: hsl(0,100%,90%);
+}
+
+.rlgt2 {
+    background-color: hsl(0,100%,80%);
+}
+
+.rlgt3 {
+    background-color: hsl(0,100%,60%);
+}
+
+.rlgt4 {
+    background-color: hsl(0,100%,40%);
+}
+
+.rlgt5 {
+    background-color: hsl(0,100%,20%);
+    color: grey;
+}
+
+.rlgt6 {
+    background-color: hsl(0,100%,10%);
+    color:grey;
+}
+
+.blue1 {
+    background-color: hsl(180,100%,50%);
+}
+
+.blue2 {
+    background-color: hsl(200,100%,50%);
+}
+
+.blue3 {
+    background-color: hsl(220,100%,50%);
+}
+
+.blue4 {
+    background-color: hsl(240,100%,50%);
+}
+
+.blue5 {
+    background-color: hsl(260,100%,50%);
+}
+
+.blue6 {
+    background-color: hsl(280,100%,50%);
+}
+
+.bsat1 {
+    background-color: hsl(220,100%,50%);
+}
+
+.bsat2 {
+    background-color: hsl(220,80%,50%);
+}
+
+.bsat3 {
+    background-color: hsl(220,60%,50%);
+}
+
+.bsat4 {
+    background-color: hsl(220,40%,50%);
+}
+
+.bsat5 {
+    background-color: hsl(220,20%,50%);
+}
+
+.bsat6 {
+    background-color: hsl(220,10%,50%);
+}
+
+.blgt1 {
+    background-color: hsl(220,100%,90%);
+}
+
+.blgt2 {
+    background-color: hsl(220,100%,80%);
+}
+
+.blgt3 {
+    background-color: hsl(220,100%,60%);
+}
+
+.blgt4 {
+    background-color: hsl(220,100%,40%);
+}
+
+.blgt5 {
+    background-color: hsl(220,100%,20%);
+    color: grey;
+}
+
+.blgt6 {
+    background-color: hsl(220,100%,10%);
+    color: grey;
+}
+
+.green1 {
+    background-color: hsl(80,100%,50%);
+}
+
+.green2 {
+    background-color: hsl(100,100%,50%);
+}
+
+.green3 {
+    background-color: hsl(120,100%,50%);
+}
+
+.green4 {
+    background-color: hsl(140,100%,50%);
+}
+
+.green5 {
+    background-color: hsl(150,100%,50%);
+}
+
+.green6 {
+    background-color: hsl(160,100%,50%);
+}
+
+.gsat1 {
+    background-color: hsl(120,100%,50%);
+}
+
+.gsat2 {
+    background-color: hsl(120,80%,50%);
+}
+
+.gsat3 {
+    background-color: hsl(120,60%,50%);
+}
+
+.gsat4 {
+    background-color: hsl(120,40%,50%);
+}
+
+.gsat5 {
+    background-color: hsl(120,20%,50%);
+}
+
+.gsat6 {
+    background-color: hsl(120,10%,50%);
+}
+
+.glgt1 {
+    background-color: hsl(120,100%,90%);
+}
+
+.glgt2 {
+    background-color: hsl(120,100%,80%);
+}
+
+.glgt3 {
+    background-color: hsl(120,100%,60%);
+}
+
+.glgt4 {
+    background-color: hsl(120,100%,40%);
+}
+
+.glgt5 {
+    background-color: hsl(120,100%,20%);
+}
+
+.glgt6 {
+    background-color: hsl(120,100%,10%);
+    color:grey;
+}
